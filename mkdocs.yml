@@ -1,0 +1,6 @@
+site_name: Docs_Olvas.Dev
+theme:
+  name: null
+  custom_dir: 'cinder'
+nav:
+  - Home: index.md
